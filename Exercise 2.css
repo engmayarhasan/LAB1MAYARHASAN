@@ -1,0 +1,40 @@
+body {
+			background-color: lightgray;
+		}
+		h1 {
+			font-size:60px;
+			color: purple;
+		}
+		h2 {
+			font-size:30px;
+			color:mediumpurple ; 
+			font-weight:bold; 
+			font-style:normal;
+			font-family: Arial;
+
+
+		}	
+		li {
+			font-size:20px;
+		}
+		strong {
+			color : Darkred;
+		}
+		
+		a:link {
+		color: gold ;
+		text-decoration: underline;
+		}
+
+		a:visited {
+		
+		text-decoration: none;
+		}
+
+		a:hover {
+		text-decoration: underline;
+		}
+
+		a:active {
+		text-decoration: underline;
+		}
